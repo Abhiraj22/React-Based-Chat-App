@@ -1,1 +1,3 @@
 # React-Based-Chat-App
+ A Discord like Chat App build to create your own chat room where you can chat with your friends by only
+signing with your Gmail Account.......
